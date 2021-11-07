@@ -1,4 +1,4 @@
-![Screenshot](https://gitlab.com/jakubolszewski/startpage-pixelart/-/raw/master/pic.jpg "Startpage Screenshot")
+[Screenshot](https://gitlab.com/jakubolszewski/startpage-pixelart/-/raw/master/pic.jpg "Startpage Screenshot")
 
 ---
 
