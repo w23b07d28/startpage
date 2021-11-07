@@ -1,4 +1,4 @@
-![Build Status](https://gitlab.com/pages/plain-html/badges/master/build.svg)
+![Screenshot](https://gitlab.com/jakubolszewski/startpage-pixelart/-/raw/master/pic.jpg "Startpage Screenshot")
 
 ---
 
